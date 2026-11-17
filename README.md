@@ -1,31 +1,31 @@
-# Hi, I'm George Sarpong 👋
+ Hi, I'm Sarpong George (Jorgino) 🇬🇭
 
-### I build websites & apps in Kumasi, Ghana 🇬🇭
+16 | Kumasi, Ghana | Founder of Phone2Code
+**Aspiring Fachinformatiker in Germany 🇩🇪
 
-I build with **HTML, CSS & JavaScript** — all on my phone. I help businesses, churches, schools and savings groups in Ghana get online.
+I build real apps on my phone with Python, HTML, CSS & JavaScript.
+No laptop. Just vision, discipline, and code.
 
----
+ 🎯 My Goal
+To get an Ausbildung as Fachinformatiker in Germany.
+To learn software development, work, and play football.
 
-### 🚀 My Projects
+📱 My Projects
+- 🙏 **Jorgino's Altar** - Prayer App
+- 🇫🇮 **My Susu App** - Savings app for Germany Ausbildung
+- 📱 **MoMo Calculator** - Ghana All Networks
+- ✝️ **Repent & Believe** - Evangelism App
+- 🇩🇪 **German Flashcards** - Learning German, 95% accuracy
+- 💼 **Phone2Code Portfolio** - All my work
 
-| Project | Live Link |
-| --- | --- |
-| 💰 Susu Savings App | https://sarponggeorge678.github.io/susu-savings-app/ |
-| 🍅 Pomodoro Focus Timer | https://sarponggeorge678.github.io/pomodoro-focus-app/ |
-| 🍲 Mama's Kitchen / Food Demo | https://sarponggeorge678.github.io/mamas-kitchen-demo/ |
-| ⛪ Church Demo | https://sarponggeorge678.github.io/church-demo/ |
-| 💼 My Portfolio | https://sarponggeorge678.github.io/ |
+ 🛠️ Skills
+Python | HTML | CSS | JavaScript | Android Development
 
----
+🗣️ Languages
+Twi - Native | English - Fluent | German - Learning (Target B1)
+Duolingo German: 95% accuracy - Nov 2026
 
-### 🛠️ Skills
-HTML | CSS | JavaScript | GitHub Pages | Phone-first Development
+⚽ Football
+Jorgino | Midfielder & Winger
 
----
-
-### 📩 Hire Me
-Want a website for your business, church or shop?
-
-**Starting from GH₵ 300** — DM me on GitHub or WhatsApp.
-
-> Building from Kumasi to the world. 🌍
+Built on phone. Built with faith. Built for Germany.
