@@ -13,7 +13,7 @@ To learn software development, work, and play football.
 📱 My Projects
 - 🙏 **Jorgino's Altar** - Prayer App
 - 🇫🇮 **My Susu App** - Savings app for Germany Ausbildung
-- 📱 **MoMo Calculator** - Ghana All Networks
+- 📱 **MoMo Calculator** - Ghana All Networksd
 - ✝️ **Repent & Believe** - Evangelism App
 - 🇩🇪 **German Flashcards** - Learning German, 95% accuracy
 - 💼 **Phone2Code Portfolio** - All my work
